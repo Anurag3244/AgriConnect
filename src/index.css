@@ -224,6 +224,16 @@
   }
 }
 
+/* Tractor Loading Animation */
+@keyframes tractor {
+  0% { transform: translateX(-20px); }
+  100% { transform: translateX(100px); }
+}
+
+.animate-tractor {
+  animation: tractor 3s ease-in-out infinite;
+}
+
 /* Cultural Design Elements */
 .pattern-dots {
   background-image: radial-gradient(circle, hsl(var(--primary) / 0.1) 1px, transparent 1px);
