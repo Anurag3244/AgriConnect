@@ -1,6 +1,6 @@
 # Welcome to your Agri  Connect  project
 
-## Project info
+## Project in
 
 **URL**:
 ## How can I edit this code?
