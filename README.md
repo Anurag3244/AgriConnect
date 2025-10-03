@@ -55,4 +55,25 @@ AgriConnect/
    ```bash
    git clone https://github.com/Anurag3244/AgriConnect.git
 
+2. Change into the directory:
+
+cd AgriConnect
+
+
+3. Install dependencies:
+
+npm install
+
+
+4. Run the development server:
+
+npm run dev
+
+
+5. Open your browser and go to
+
+http://localhost:3000
+
+
+(or whatever port Vite uses)
 
