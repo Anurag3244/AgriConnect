@@ -24,17 +24,17 @@ AgriConnect/
 
 │── src/
 
-  │── components/ # Reusable UI parts
+│ │── components/ # Reusable UI parts
   
-  │── pages/ # Page-level components / routes
+│ │── pages/ # Page-level components / routes
   
-  │── App.tsx # Main React component
+│ │── App.tsx # Main React component
   
-  │── index.tsx # Entry point
+│ │── index.tsx # Entry point
   
-  │── styles/ # Global styles / Tailwind config
+│ │── styles/ # Global styles / Tailwind config
   
-  │── ... # Other support files
+│ │── ... # Other support files
   
 |── package.json
 
