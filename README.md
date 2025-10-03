@@ -57,18 +57,18 @@ AgriConnect/
 
 2. Change into the directory:
  ```bash
-cd AgriConnect
+ cd AgriConnect
 
 3. Install dependencies:
  ```bash
-npm install
+ npm install
 
 4. Run the development server:
  ```bash
-npm run dev
+ npm run dev
 
 5. Open your browser and go to
  ```bash
-http://localhost:3000
+ http://localhost:3000
 (or whatever port Vite uses)
 
