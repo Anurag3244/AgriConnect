@@ -19,18 +19,31 @@ A platform to connect agricultural stakeholders—farmers, buyers, suppliers—i
 
 ## 📂 Project Structure
 AgriConnect/
+
 │── public/ # Static assets
+
 │── src/
-│ │── components/ # Reusable UI parts
-│ │── pages/ # Page-level components / routes
-│ │── App.tsx # Main React component
-│ │── index.tsx # Entry point
-│ │── styles/ # Global styles / Tailwind config
-│ │── ... # Other support files
-│── package.json
+
+  │── components/ # Reusable UI parts
+  
+  │── pages/ # Page-level components / routes
+  
+  │── App.tsx # Main React component
+  
+  │── index.tsx # Entry point
+  
+  │── styles/ # Global styles / Tailwind config
+  
+  │── ... # Other support files
+  
+|── package.json
+
 │── tsconfig.json
+
 │── tailwind.config.ts
+
 │── vite.config.ts
+
 │── README.md # This documentation
 
 
