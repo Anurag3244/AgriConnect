@@ -1,6 +1,6 @@
 # AgriConnect 🌱
 
-[Live Demo / Hosted Website]([YOUR_HOSTED_URL_HERE](https://agriconnect.pranaycode.online/))
+[Live Demo / Hosted Website](https://agriconnect.pranaycode.online/)
 
 A platform to connect agricultural stakeholders—farmers, buyers, suppliers—in one place. Built with modern web technologies like React, TypeScript, Tailwind CSS, and Vite.
 
